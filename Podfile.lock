@@ -1,0 +1,16 @@
+PODS:
+  - Hero (1.2.0)
+
+DEPENDENCIES:
+  - Hero
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Hero
+
+SPEC CHECKSUMS:
+  Hero: 33dadf2cd1c98af71e213dcbc2902e6e03622a4e
+
+PODFILE CHECKSUM: 4723df4b36c34dc40d843541ffcf1d0cd597a72f
+
+COCOAPODS: 1.5.3
